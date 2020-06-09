@@ -1,2 +1,2 @@
-# Port-lio_DataScience
-Meu portfólio de projetos de Data Science
+# DataScience_Projects
+Meu portfólio de projetos de Data Science.

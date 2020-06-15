@@ -11,7 +11,7 @@ Olá! Meu nome é Bernardo. Além de um apaixonado por matemática, música e xa
 
 A seguir - com grande satisfação - apresento parte do meu trabalho como Cientista de Dados! Faço, por intermédio de Projetos e Análises Estátisticas. Espero que seja útil e proveitoso de alguma forma para você, excelentíssimo leitor! Fique a vontade para entrar em contato através dos meios aqui disponibilizados. Cuide-se e lembre-se: 	
 					
-				        Its not about work, Its about future.
+				               Its not about work, Its about future.
 
 
 **Background in:** Java, Python, Machine Learning, Matemática, Desenvolvimento Front-End entre outras coisas.

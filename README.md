@@ -7,11 +7,12 @@
 # Bernardo Alves Martins
 <sub>Cumputer Science Student, Data Scientist and Mathematics Lover :)</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Olá! Meu nome é Bernardo. Além de um apaixonado por matemática, música e xadrez, tenho aplicado os ultimos anos da minha vida e carreira ao estudo da Ciência da Computuação. Naturalmente, como aluno da Universidade Federal de Santa Catarina (UFSC), tenho contato com diversas áreas, entretanto, busco cada vez mais aprimoramento na Ciência dos Dados, essa queridinha do século XXI !!
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+A seguir - com grande satisfação - apresento parte do meu trabalho como Cientista de Dados, na forma de projetos e análises estátisticas. Espero que seja útil e proveitoso de alguma forma. Fique a vontade para entrar em contato atravez dos meios aqui disponibilizados. Cuide-se e lembre-se. Its not about work, Its about future.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+
+**Background in:** Java, Python, Machine Learning, Matemática e Desenvolvimento Front-End entre outras coisas.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/bernardo8768)

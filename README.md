@@ -11,9 +11,10 @@ Olá! Meu nome é Bernardo. Além de um apaixonado por matemática, música e xa
 
 A seguir - com grande satisfação - apresento parte do meu trabalho como Cientista de Dados, por intermédio de projetos e análises estátisticas. Espero que seja útil e proveitoso de alguma forma para você, excelentíssimo leitor! Fique a vontade para entrar em contato através dos meios aqui disponibilizados. Cuide-se e lembre-se: Its not about work, Its about future.
 
-E-mail: bernardoalves1518@gmail.com
 
 **Background in:** Java, Python, Machine Learning, Matemática e Desenvolvimento Front-End entre outras coisas.
+
+E-mail: bernardoalves1518@gmail.com
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/bernardo8768)

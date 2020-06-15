@@ -7,10 +7,11 @@
 # Bernardo Alves Martins
 <sub>Cumputer Science Student, Data Scientist and Mathematics Lover :)</sub>
 
-Olá! Meu nome é Bernardo. Além de um apaixonado por matemática, música e xadrez, tenho aplicado os ultimos anos da minha vida e carreira ao estudo da Ciência da Computuação. Naturalmente, como aluno da Universidade Federal de Santa Catarina (UFSC), tenho contato com diversas áreas, entretanto, busco cada vez mais aprimoramento na Ciência dos Dados, essa queridinha do século XXI !!
+Olá! Meu nome é Bernardo. Além de um apaixonado por matemática, música e xadrez, tenho aplicado os ultimos anos da minha vida e carreira ao estudo da Ciência da Computuação. Naturalmente, como aluno da Universidade Federal de Santa Catarina (UFSC), tenho contato com diversas áreas desse universo (bastante grande, por sinal) da computação. Entretanto, tenho me especializado em Ciência dos Dados, essa queridinha do século XXI ! :) 
 
-A seguir - com grande satisfação - apresento parte do meu trabalho como Cientista de Dados, na forma de projetos e análises estátisticas. Espero que seja útil e proveitoso de alguma forma. Fique a vontade para entrar em contato atravez dos meios aqui disponibilizados. Cuide-se e lembre-se. Its not about work, Its about future.
+A seguir - com grande satisfação - apresento parte do meu trabalho como Cientista de Dados, por intermédio de projetos e análises estátisticas. Espero que seja útil e proveitoso de alguma forma para você, excelentíssimo leitor! Fique a vontade para entrar em contato através dos meios aqui disponibilizados. Cuide-se e lembre-se: Its not about work, Its about future.
 
+E-mail: bernardoalves1518@gmail.com
 
 **Background in:** Java, Python, Machine Learning, Matemática e Desenvolvimento Front-End entre outras coisas.
 
@@ -20,7 +21,7 @@ A seguir - com grande satisfação - apresento parte do meu trabalho como Cienti
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+adendo : (Perfil em construção, esse projetos nao são os meus, estão aqui meramente para exemplo...)
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY

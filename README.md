@@ -5,7 +5,7 @@
 </p>
 
 # Bernardo Alves Martins
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Cumputer <u>Science Student</u> and <u>freelance Data Scientist</u></sub>
 
 As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
 

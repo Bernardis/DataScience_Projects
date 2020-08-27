@@ -14,7 +14,7 @@ A seguir - com grande satisfação - apresento parte do meu trabalho como Cienti
 				               Its not about work, Its about future.
 
 
-**Background in:** Java, Python, Machine Learning, Matemática, Desenvolvimento Front-End entre outras coisas.
+**Background in:** Python, Machine Learning, Math, Data Science
 
 E-mail: bernardoalves1518@gmail.com
 

@@ -24,7 +24,7 @@ E-mail: bernardoalves1518@gmail.com
 
 
 ## Projetos:
-adendo : (Perfil em construção, esse projetos nao são os meus, estão aqui meramente para exemplo...)
+
 
 * **Análise exploratória Airbnb:** https://bit.ly/2L2cMwy
 

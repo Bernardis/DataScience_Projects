@@ -7,7 +7,7 @@
 # Bernardo Alves Martins
 <sub>Cumputer Science Student, Data Scientist and Mathematics Lover :)</sub>
 
-**Seja muito bem vindo!
+**Seja muito bem vindo!**
 
 Cientista de dados e granduando em Ciência da Computação na Universidade Federal de Santa Catarina. 
 Por aqui, o leitor terá contato com a ciência de dados verdadeira e essencial, muito além de códigos. Conteúdo organizado e estruturado de maneira prática, simples e eficiente. 

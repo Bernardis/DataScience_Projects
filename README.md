@@ -7,7 +7,10 @@
 # Bernardo Alves Martins
 <sub>Cumputer Science Student, Data Scientist and Mathematics Lover :)</sub>
 
-Olá! Meu nome é Bernardo. Além de apaixonado por matemática, música e xadrez, tenho aplicado os ultimos anos da minha vida e carreira ao estudo da Ciência da Computuação. Naturalmente, tenho contato com diversas áreas desse universo (bastante grande, por sinal). Entretanto, venho me especializando fortemente, por meio de cursos e intenso estudo, na Ciência dos Dados, essa queridinha do século XXI ! :) 
+							**Seja muito bem vindo!**
+
+Cientista de dados e granduando em Ciência da Computação na Universidade Federal de Santa Catarina. 
+Por aqui, o leitor terá contato com a ciência de dados verdadeira e essencial, muito além de códigos. Conteúdo organizado e estruturado de maneira prática, simples e eficiente. 
 
 A seguir - com grande satisfação - apresento parte do meu trabalho como Cientista de Dados! Faço, por intermédio de Projetos e Análises Estátisticas. Espero que seja útil e proveitoso de alguma forma para você! Fique a vontade para entrar em contato através dos meios aqui disponibilizados. Cuide-se e lembre-se: 	
 					

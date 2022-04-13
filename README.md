@@ -30,7 +30,7 @@ E-mail: bernardoalves1518@gmail.com
 
 
 * **Análise exploratória Airbnb:** https://bit.ly/3cTTdog
-* **Análise exploratória Covid-19 (Global e Brasil):** https://bityli.com/EmNtr
+* **Análise exploratória Covid-19 (Global e Brasil):** https://bit.ly/3KH8TJX
 
 
 ---

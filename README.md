@@ -19,7 +19,7 @@ A seguir - com grande satisfação - apresento parte do meu trabalho como Cienti
 
 **Background in:** Python, Machine Learning, Math, Data Science
 
-E-mail: bernardoalves1518@gmail.com
+e-mail: bernardoalves1518@gmail.com
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/bernardo8768)

@@ -14,7 +14,7 @@ Por aqui, o leitor terá contato com a ciência de dados verdadeira e essencial,
 
 A seguir - com grande satisfação - apresento parte do meu trabalho como Cientista de Dados! Faço, por intermédio de Projetos e Análises Estátisticas. Espero que seja útil e proveitoso de alguma forma para você! Fique a vontade para entrar em contato através dos meios aqui disponibilizados. Há também muito conteúdo no Linkedin e no Medium, acompanhe também por lá! Muita saúde, cuide-se! 	
 					
-				               Pergunte aos dados. Eles saberão o que fazer..
+				        Pergunte aos dados. Eles saberão o que fazer..
 
 
 **Background in:** Python, Machine Learning, Math, Data Science

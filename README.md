@@ -12,7 +12,7 @@
 Cientista de dados e granduando em Ciência da Computação na Universidade Federal de Santa Catarina. 
 Por aqui, o leitor terá contato com a ciência de dados verdadeira e essencial, muito além de códigos. Conteúdo organizado e estruturado de maneira prática, simples e eficiente. 
 
-A seguir - com grande satisfação - apresento parte do meu trabalho como Cientista de Dados! Faço, por intermédio de Projetos e Análises Estátisticas. Espero que seja útil e proveitoso de alguma forma para você! Fique a vontade para entrar em contato através dos meios aqui disponibilizados. Há também muito conteúdo no Linkedin e no Medium, acompanhe também por lá! Muita saúde, cuide-se! 	
+A seguir - com grande satisfação - apresento parte do meu trabalho como Cientista de Dados! Faço, por intermédio de Projetos e Análises Estátisticas. Espero que seja útil e proveitoso de alguma forma para você! Fique a vontade para entrar em contato através dos meios aqui disponibilizados. Há muito conteúdo no Linkedin e no Medium, acompanhe também por lá! Muita saúde, cuide-se sempre! 	
 					
 				          Pergunte aos dados. Eles saberão o que fazer..
 

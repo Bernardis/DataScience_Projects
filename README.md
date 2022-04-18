@@ -5,7 +5,7 @@
 </p>
 
 # Bernardo Alves Martins
-<sub>Cumputer Science Student, Data Scientist and Mathematics Lover :)</sub>
+<sub>Computer Science Student, Data Scientist and Mathematics Lover :)</sub>
 
 **Seja muito bem vindo!**
 

@@ -17,7 +17,7 @@ A seguir - com grande satisfação - apresento parte do meu trabalho como Cienti
 				          Pergunte aos dados. Eles saberão o que fazer..
 
 
-**Background in:** Python, Machine Learning, Math, Data Science
+**Background in:** Python, Machine Learning, Matetmática, Banco de dados...
 
 e-mail: bernardoalves1518@gmail.com
 

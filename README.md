@@ -10,11 +10,11 @@
 **Seja muito bem vindo!**
 
 Cientista de dados e granduando em Sistemas da Informação pela Universidade do Sul de Santa Catarina. 
-Por aqui, o leitor terá contato com a ciência de dados verdadeira e essencial, muito além de códigos. Conteúdo organizado e estruturado de maneira prática, simples e eficiente. Damos valor ao bom e velho storytelling!
+Por aqui, o leitor terá contato com a ciência de dados verdadeira e essencial, muito além de códigos. Conteúdo organizado e estruturado de maneira prática, simples e eficiente e claro, sem perder de vista o bom e velho storytelling!
 
-A seguir - com grande satisfação - apresento parte do meu trabalho como Cientista de Dados! Faço, por intermédio de Projetos e Análises Estátisticas. Espero que seja útil e proveitoso de alguma forma para você! Fique a vontade para entrar em contato através dos meios aqui disponibilizados. Há muito conteúdo no Linkedin e estou escrevendo artigos publicaro no Medium, acompanhe também por lá! Muita saúde, cuide-se sempre! 	
+A seguir - com grande satisfação - apresento parte do meu trabalho como Cientista de Dados, centrados em Projetos e Análises Estátisticas. Espero que o conhecimento seja útil e proveitoso de alguma forma para você! Fique a vontade para entrar em contato através dos meios aqui disponibilizados. Há muito conteúdo no Linkedin e estou escrevendo artigos para publicar no Medium, acompanhe também por lá! Muita saúde, cuide-se sempre! 	
 					
-				          Pergunte aos dados. Eles saberão o que fazer..
+				          Pergunte aos dados. Eles sempre sabem o que fazer.
 
 
 **Background in:** Python, Machine Learning, Matemática, Banco de dados...

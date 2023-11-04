@@ -23,7 +23,7 @@ e-mail: bernardoalves1518@gmail.com
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/bernardo8768)
-* [Medium]([https://www.medium.com](https://medium.com/@bernardoalves1518))
+* [Medium](https://medium.com/@bernardoalves1518)
 
 
 ## Projetos:
